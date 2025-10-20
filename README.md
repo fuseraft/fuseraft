@@ -1,14 +1,11 @@
-### Hi! I'm Scotty (but most people call me Scott).
+### Hi! I'm Scotty.
 
-- 🔭 I’m currently working on [The Kiwi Programming Language](https://github.com/fuseraft/kiwi).
-- 🌱 I’m currently learning Go.
-- 💬 Ask me about interpreter design and Pokemon.
-- 📫 How to reach me: LinkedIn, X
-- ⚡ Fun fact: I have played guitar for most of my life.
+I started with C in 2005 and haven't looked back.
 
-🥝 [Kiwi](http://fuseraft.github.io/) · 👔 [LinkedIn](https://www.linkedin.com/in/scottcstauffer) · 🐦 [X](https://x.com/scottyislegit)
+I’m currently working on [Kiwi](https://github.com/fuseraft/kiwi) and [Hayward](https://github.com/fuseraft/hayward).  
 
-[![Github profile Trophy](https://github-profile-trophy.vercel.app/?username=fuseraft)](https://github.com/ryo-ma/github-profile-trophy)
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/scottcstauffer) or [X](https://x.com/scottyislegit)!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fuseraft)
-![lambdalisue's github stats](https://github-readme-stats.vercel.app/api?username=fuseraft&show_icons=true&count_private=true&line_height=40)
+**Fun fact(s):**
+- I have played guitar for most of my life.
+- Ruby is my favorite programming language, but .NET pays the bills.
