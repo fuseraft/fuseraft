@@ -2,7 +2,7 @@
 
 I started with C in 2005 and haven't looked back.
 
-I’m currently working on [Kiwi](https://github.com/fuseraft/kiwi) and [Hayward](https://github.com/fuseraft/hayward).  
+I’m currently working on [Kiwi](https://github.com/fuseraft/kiwi).  
 
 Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/scottcstauffer) or [X](https://x.com/scottyislegit)!
 
