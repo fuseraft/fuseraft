@@ -1,11 +1,12 @@
-### Hi! I'm Scotty.
+### Hi, I'm Scotty.
 
-I started with C in 2005 and haven't looked back.
+I started with C in 2005 and haven't stopped since.
 
-I’m currently working on [Kiwi](https://github.com/fuseraft/kiwi) and [Zest](https://github.com/fuseraft/zest). 🥝
+Right now I'm building:
+- **[fuseraft-cli](https://github.com/fuseraft/fuseraft-cli)** — a .NET multi-agent LLM orchestration framework
+- **[Kiwi](https://github.com/fuseraft/kiwi)** — a scripting language
+- **[Zest](https://github.com/fuseraft/zest)** — a testing framework for Kiwi
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/scottcstauffer) or [X](https://x.com/scottyislegit)!
+Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/scottcstauffer) or [X](https://x.com/scottyislegit).
 
-**Fun fact(s):**
-- I have played guitar for most of my life.
-- Ruby is my favorite programming language, but .NET pays the bills.
+**Fun facts:** I've played guitar most of my life. Ruby is my favorite language, but .NET pays the bills.
