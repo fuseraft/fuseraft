@@ -3,7 +3,7 @@
 I started with C in 2005 and haven't stopped since.
 
 Right now I'm building:
-- **[fuseraft-cli](https://github.com/fuseraft/fuseraft-cli)** — a .NET multi-agent LLM orchestration framework
+- **[fuseraft-cli](https://github.com/fuseraft/fuseraft-cli)** — a multi-agent orchestration framework
 - **[kiwi](https://github.com/fuseraft/kiwi)** — a scripting language
 - **[zest](https://github.com/fuseraft/zest)** — a package manager for Kiwi
 
